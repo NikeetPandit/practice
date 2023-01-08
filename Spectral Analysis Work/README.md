@@ -3,26 +3,18 @@ In this mini-project, I explore spectral analysis methods; how they excel and th
 I investigate aliasing, how I can detect aliased peaks (see function),  sub Nyquist effects, different windowing methods, lengths of the series and their effects on the separability close peaks. I highlight here also the benefit of least-squares methods over Fourier in this regard. 
 I push Fourier over its strict limitations by introducing trends and gaps and demonstrate how least-squares based spectral analysis are superior in this regard. I use wavelets here and there for effective representations when experimenting with transient signals. 
 All series are synthetic which I create (see function) in this mini-project which makes for very effective experimentation. 
---------------------------------------------
-![This is an image](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG)
-*Demonstrating sub-Nyquist artefacts; Aliasing even when Nyquist condition is obeyed*
---------------------------------------------
---------------------------------------------
-![This is an image](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG)
-*Creating a synthetic series which has a variable frequency which, due to aliasing, keeps folding over itself*
---------------------------------------------
 
 
 <div class="container" style="display: inline-block;">  
   <figure>
   <div style="float: left; padding: 10px;">
     <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' width="350" height="350" align="center"/>
-    <figcaption align="center"><b>Fig 2.5; Courtesy of Linear Algebra: Theory,<br> Intuition, Code by Mike X Cohen</b></figcaption>
+    <figcaption align="center"><b>Demonstrating sub-Nyquist artefacts; Aliasing even when Nyquist condition is obeyed</b></figcaption>
   </div>
 
   <div style="float: right; padding: 10px;">
-    <img src='bbb.png' width="350" height="350" align="center"/>
-    <figcaption align="center"><b>Fig 2.3; Courtesy of Linear Algebra: Theory,<br> Intuition, Code by Mike X Cohen</b></figcaption>
+    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG' width="350" height="350" align="center"/>
+    <figcaption align="center"><b>Creating a synthetic series which has a variable frequency which, due to aliasing, keeps folding over itself</b></figcaption>
   </div>
   </figure>
 </div>
