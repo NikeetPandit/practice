@@ -12,6 +12,12 @@ All series are synthetic which I create (see function) in this mini-project whic
 *Creating a synthetic series which has a variable frequency which, due to aliasing, keeps folding over itself*
 --------------------------------------------
 
+<section>
+    <img width="300" src="[http://static.slid.es.s3.amazonaws.com/support/insert-video.png](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG)">
+    <img width="300" src="[http://static.slid.es.s3.amazonaws.com/support/insert-video.png](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG)">
+</section>
+
+
 ### Cite As
 Nikeet Pandit (2023). Image Processing Work (https://github.com/NikeetPandit/practice)
 * Use functions at own risk
