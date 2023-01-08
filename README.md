@@ -14,8 +14,8 @@ and use it to drive experimental testing.
 ## Mini-Project 2
 In this project, I surveyed filtering in the frequency domain with testing and application. 
 
-## Mini-Project 3
-In this project, I surveyed filtering in the frequency domain with testing and application
+## Mini-Project 1
+In this project, I surveyed filtering in the time domain with testing and application
 
 --------------------------------------------
 ![This is an image](https://github.com/NikeetPandit/practice/blob/main/Mini-Project%201/images/read_me_image.PNG)
