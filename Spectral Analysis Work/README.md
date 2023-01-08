@@ -8,12 +8,12 @@ All series are synthetic which I create (see function) in this mini-project whic
 <div class="container" style="display: inline-block;">  
   <figure>
   <div style="float: left; padding: 10px;">
-    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' width="350" height="350" align="center"/>
+    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' width="350" height="350" align="left"/>
     <figcaption align="center"><b>Demonstrating sub-Nyquist artefacts; Aliasing even when Nyquist condition is obeyed</b></figcaption>
   </div>
 
   <div style="float: right; padding: 10px;">
-    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG' width="350" height="350" align="center"/>
+    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG' width="350" height="350" align="right"/>
     <figcaption align="center"><b>Creating a synthetic series which has a variable frequency which, due to aliasing, keeps folding over itself</b></figcaption>
   </div>
   </figure>
