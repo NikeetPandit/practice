@@ -13,16 +13,20 @@ All series are synthetic which I create (see function) in this mini-project whic
 --------------------------------------------
 
 
+<style>
+figure{
+    display: inline-block;
+}
+</style>
 
 <figure>
-    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' alt='missing' />
+    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' alt='image 1' />
     <figcaption>Caption goes here</figcaption>
 </figure>
 <figure>
-    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' alt='missing' />
+    <img src='image.jpg' alt='image 1' />
     <figcaption>Caption goes here</figcaption>
 </figure>
-
 
 
 ### Cite As
