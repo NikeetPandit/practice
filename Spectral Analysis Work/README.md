@@ -7,6 +7,7 @@ I investigate aliasing, how I can detect aliased peaks (see function),  sub Nyqu
 I push Fourier over its strict limitations by introducing trends and gaps and demonstrate how least-squares based spectral analysis are superior in this regard. I use wavelets here and there for effective representations when experimenting with transient signals. 
 All series are synthetic which I create (see function) in this mini-project which makes for very effective experimentation. 
 
+--------------------------------------------
 
 <div class="container" style="display: inline-block;">  
   <figure>
@@ -22,6 +23,7 @@ All series are synthetic which I create (see function) in this mini-project whic
   </figure>
 </div>
 
+--------------------------------------------
 
 ### Cite As
 Nikeet Pandit (2023). Image Processing Work (https://github.com/NikeetPandit/practice)
