@@ -23,3 +23,5 @@ In this project, I surveyed filtering in the frequency domain with testing and a
 
 ### Cite As
 Nikeet Pandit (2023). Image Processing Work (https://github.com/NikeetPandit/practice)
+
+* Use at own risk
