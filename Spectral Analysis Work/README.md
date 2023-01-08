@@ -5,7 +5,7 @@ I push Fourier over its strict limitations by introducing trends and gaps and de
 All series are synthetic which I create (see function) in this mini-project which makes for very effective experimentation. 
 --------------------------------------------
 ![This is an image](https://github.com/NikeetPandit/practice/blob/main/Image%20Processing%20Work/Mini-Project%201/images/read_me_image.PNG](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG)
-*Demonstrating sub-Nyquist artefacts; Aliasing even when Nyquist condition is obeyed
+*Demonstrating sub-Nyquist artefacts; Aliasing even when Nyquist condition is obeyed*
 --------------------------------------------
 --------------------------------------------
 ![This is an image](https://github.com/NikeetPandit/practice/blob/main/Image%20Processing%20Work/Mini-Project%201/images/read_me_image.PNG](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG)
