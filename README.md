@@ -7,7 +7,7 @@ Various algorithms for filtering and other processing needs have been developed 
 
 ## Medium-Project 3 
 
-In this project, exhaustive testing (30+ pages) has been performed. I surveyed periodic noise 
+In this project, I performed exhaustive testing (30+ pages). I surveyed periodic noise 
 reduction, Weiner, constrained least squares, and inverse filtering. I combined theoretical knowledge
 and use it to drive experimental testing. 
 
