@@ -18,7 +18,7 @@ In this project, I surveyed filtering in the frequency domain with testing and a
 In this project, I surveyed filtering in the time domain with testing and application
 
 --------------------------------------------
-![This is an image](https://github.com/NikeetPandit/practice/blob/main/Mini-Project%201/images/read_me_image.PNG)
+![This is an image](https://github.com/NikeetPandit/practice/blob/main/Image%20Processing%20Work/Mini-Project%201/images/read_me_image.PNG)
 --------------------------------------------
 
 ### Cite As
