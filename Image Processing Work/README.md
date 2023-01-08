@@ -23,5 +23,4 @@ In this project, I surveyed filtering in the time domain with testing and applic
 
 ### Cite As
 Nikeet Pandit (2023). Image Processing Work (https://github.com/NikeetPandit/practice)
-
 * Use functions at own risk
