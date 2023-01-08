@@ -13,23 +13,20 @@ All series are synthetic which I create (see function) in this mini-project whic
 --------------------------------------------
 
 
+<div class="container" style="display: inline-block;">  
+  <figure>
+  <div style="float: left; padding: 10px;">
+    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' width="350" height="350" align="center"/>
+    <figcaption align="center"><b>Fig 2.5; Courtesy of Linear Algebra: Theory,<br> Intuition, Code by Mike X Cohen</b></figcaption>
+  </div>
 
+  <div style="float: right; padding: 10px;">
+    <img src='bbb.png' width="350" height="350" align="center"/>
+    <figcaption align="center"><b>Fig 2.3; Courtesy of Linear Algebra: Theory,<br> Intuition, Code by Mike X Cohen</b></figcaption>
+  </div>
+  </figure>
+</div>
 
-
-<style>
-figure{
-    display: inline-block;
-}
-</style>
-
-<figure>
-    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' alt='image 1' />
-    <figcaption>Caption goes here</figcaption>
-</figure>
-<figure>
-    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' alt='image 1' />
-    <figcaption>Caption goes here</figcaption>
-</figure>
 
 
 ### Cite As
