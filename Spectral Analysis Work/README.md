@@ -4,11 +4,11 @@ I investigate aliasing, how I can detect aliased peaks (see function),  sub Nyqu
 I push Fourier over its strict limitations by introducing trends and gaps and demonstrate how least-squares based spectral analysis are superior in this regard. I use wavelets here and there for effective representations when experimenting with transient signals. 
 All series are synthetic which I create (see function) in this mini-project which makes for very effective experimentation. 
 --------------------------------------------
-![This is an image](https://github.com/NikeetPandit/practice/blob/main/Image%20Processing%20Work/Mini-Project%201/images/read_me_image.PNG](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG)
+![This is an image](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG)
 *Demonstrating sub-Nyquist artefacts; Aliasing even when Nyquist condition is obeyed*
 --------------------------------------------
 --------------------------------------------
-![This is an image](https://github.com/NikeetPandit/practice/blob/main/Image%20Processing%20Work/Mini-Project%201/images/read_me_image.PNG](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG)
+![This is an image](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG)
 *Creating a synthetic series which has a variable frequency which, due to aliasing, keeps folding over itself*
 --------------------------------------------
 
