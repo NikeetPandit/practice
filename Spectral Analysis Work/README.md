@@ -16,11 +16,11 @@ All series are synthetic which I create (see function) in this mini-project whic
 
 <div class="image123">
     <div class="imgContainer">
-        <img src="[/images/tv.gif](http://static.slid.es.s3.amazonaws.com/support/insert-video.png](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG)" height="200" width="200"/>
+        <img src="https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG" height="200" width="200"/>
         <p>This is image 1</p>
     </div>
     <div class="imgContainer">
-        <img class="middle-img" src="[/images/tv.gif](http://static.slid.es.s3.amazonaws.com/support/insert-video.png](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG)"/ height="200" width="200"/>
+        <img class="middle-img" src="https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG" height="200" width="200"/>
         <p>This is image 2</p>
     </div>
 </div>
