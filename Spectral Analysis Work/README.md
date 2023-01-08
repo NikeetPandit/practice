@@ -12,10 +12,19 @@ All series are synthetic which I create (see function) in this mini-project whic
 *Creating a synthetic series which has a variable frequency which, due to aliasing, keeps folding over itself*
 --------------------------------------------
 
-<section>
-    <img width="300" src="[http://static.slid.es.s3.amazonaws.com/support/insert-video.png](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG)">
-    <img width="300" src="[http://static.slid.es.s3.amazonaws.com/support/insert-video.png](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG)">
-</section>
+
+
+<div class="image123">
+    <div class="imgContainer">
+        <img src="[/images/tv.gif](http://static.slid.es.s3.amazonaws.com/support/insert-video.png](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG)" height="200" width="200"/>
+        <p>This is image 1</p>
+    </div>
+    <div class="imgContainer">
+        <img class="middle-img" src="[/images/tv.gif](http://static.slid.es.s3.amazonaws.com/support/insert-video.png](https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG)"/ height="200" width="200"/>
+        <p>This is image 2</p>
+    </div>
+</div>
+
 
 
 ### Cite As
