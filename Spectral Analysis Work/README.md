@@ -10,13 +10,13 @@ All series are synthetic which I create (see function) in this mini-project whic
 
 <div class="container" style="display: inline-block;">  
   <figure>
-  <div style="float: left; padding: 10px;">
-    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG' width="350" height="350" align="center"/>
+  <div style="float: left; padding: 8px;">
+    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG' width="450" height="350" align="center"/>
     <figcaption align="center"><b>Demonstrating sub-Nyquist artefacts; Aliasing even when Nyquist condition is obeyed</b></figcaption>
   </div>
 
-  <div style="float: right; padding: 10px;">
-    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' width="350" height="350" align="center"/>
+  <div style="float: right; padding: 8px;">
+    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' width="450" height="350" align="center"/>
     <figcaption align="center"><b>Transient synthetic series which, due to aliasing, keeps folding over itself</b></figcaption>
   </div>
   </figure>
