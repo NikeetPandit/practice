@@ -1,7 +1,7 @@
 # Harmonic Analysis and Image Processing Practice 
 
 In this course, theoretical application overviewed dimensionality reduction transforms
-like Fourier and Wavelets with application to image processing. Further, we looked at image filtering
+like Fourier and Wavelets with application to image processing. Further, I look at image filtering
 techniques and enhancement methods in both the frequency and space domain and image restoration. 
 Various algorithms for filtering and other processing needs have been developed and are uploaded here. 
 
