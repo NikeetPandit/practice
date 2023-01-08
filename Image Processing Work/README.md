@@ -19,7 +19,7 @@ In this project, I surveyed filtering in the time domain with testing and applic
 
 --------------------------------------------
 ![This is an image](https://github.com/NikeetPandit/practice/blob/main/Image%20Processing%20Work/Mini-Project%201/images/read_me_image.PNG)
-*Image Spectrums w/ various noises added*
+
 --------------------------------------------
 
 ### Cite As
