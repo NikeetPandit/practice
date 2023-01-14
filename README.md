@@ -4,7 +4,6 @@ Here are some mini-projects, experimentations, and practice work. Projects come 
 
 
 --------------------------------------------
-![This is an image](http://www.quickmeme.com/meme/3t7jdl)
-
+![This is an image](https://github.com/NikeetPandit/practice/blob/main/Image%20Processing%20Work/Mini-Project%201/images/practice.jpg)
 --------------------------------------------
 
